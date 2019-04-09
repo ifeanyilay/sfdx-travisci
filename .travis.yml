@@ -1,4 +1,4 @@
-sudo: true
+sudo: false
 os: trusty
 cache: false
 env:
